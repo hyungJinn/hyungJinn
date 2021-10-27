@@ -10,3 +10,55 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hyungJinn&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=hyungJinn)](#)
+
+
+## School
+  - (2016 ~ ) 동서울대학교 컴퓨터소프트웨어학과 입학
+  - (2019.02) 동서울대학교 졸업
+
+
+## Activity
+  - (2017 ~ ) 동서울대학교 소프트웨어학과 소모임 Gopis
+  - (2021) K-Shield Jr. 보안사고 분석대응 과정 6기 수료
+  - (2021 ~ ) KATUSA 입대
+
+
+## Awards
+  - 개발
+    - (0000) 상 이름
+    
+  - 알고리즘
+    - (0000) 상 이름 (등수)
+    
+  - 기타
+    - (0000) 대회 이름 (등수)
+
+
+## Project
+  - RPG 게임 개발
+  - 사내메신저
+  - SQL Injection 자동화 tool 개발
+
+
+## Interest
+ - Languages
+   - C/C++
+   - Python
+   - JavaScript
+
+ - Frameworks
+   - oo
+
+ - Problem Solving
+   - [Codeforces](https://codeforces.com/profile/eric_haam)
+   - [Baekjoon](https://www.acmicpc.net/user/hyungjin)
+   - [Programmers](https://programmers.co.kr/pr/hyungjin)
+
+
+## Contacts
+  - [Github Repo Issue](https://github.com/hyungjinn/hyungjinn/issues)
+  - [Email](mailto:hyungjinnh@gmail.com)
+  
+
+## Others
+![Github Graph](https://activity-graph.herokuapp.com/graph?username=hyungjinn&area=false&theme=xcode&hide_border=true)
