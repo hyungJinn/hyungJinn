@@ -34,10 +34,13 @@
     - (0000) 대회 이름 (등수)
 
 
-## Project
+## Projects
   - RPG 게임 개발
   - 사내메신저
   - SQL Injection 자동화 tool 개발
+  
+  - 바닐라 JS로 크롬 앱 개발
+  - Python으로 웹 스크래퍼 개발
 
 
 ## Interest
