@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyungJinn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hyungJinn)
 [![Github Followers](https://img.shields.io/github/followers/hyungJinn?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/hyungJinn?tab=followers)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungJinn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungJinn&hide=stars,commits,prs&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungJinn&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyungjin)](https://solved.ac/hyungjin)
 
