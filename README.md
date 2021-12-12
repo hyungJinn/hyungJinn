@@ -8,9 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungJinn&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyungjin)](https://solved.ac/hyungjin)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hyungJinn&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=hyungJinn)](#)
-
 
 ## School
   - (2016 ~ ) 동서울대학교 컴퓨터소프트웨어학과 입학
