@@ -25,7 +25,7 @@
    - JavaScript
 
  - Frameworks
-   - oo
+   - ooo
 
  - Problem Solving
    - [Codeforces](https://codeforces.com/profile/eric_haam)
