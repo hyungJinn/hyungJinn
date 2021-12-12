@@ -9,28 +9,6 @@
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyungjin)](https://solved.ac/hyungjin)
 
 
-## School
-  - (2016 ~ ) 동서울대학교 컴퓨터소프트웨어학과 입학
-  - (2019.02) 동서울대학교 졸업
-
-
-## Activity
-  - (2017 ~ ) 동서울대학교 소프트웨어학과 소모임 Gopis
-  - (2021) K-Shield Jr. 보안사고 분석대응 과정 6기 수료
-  - (2021 ~ ) KATUSA 입대
-
-
-## Awards
-  - 개발
-    - (0000) 상 이름
-    
-  - 알고리즘
-    - (0000) 상 이름 (등수)
-    
-  - 기타
-    - (0000) 대회 이름 (등수)
-
-
 ## Projects
   - RPG 게임 개발
   - 사내메신저
