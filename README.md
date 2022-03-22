@@ -14,6 +14,7 @@
   
   - 바닐라 JS로 크롬 앱 개발
   - Python으로 웹 스크래퍼 개발
+  - [React JS로 영화 웹 서비스 개발](https://hyungjinn.github.io/react-netflix-clone/)
 
 
 ## Interest
