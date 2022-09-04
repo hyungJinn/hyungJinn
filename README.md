@@ -10,21 +10,31 @@
 
 
 ## Projects
- - Python
-   - Python으로 웹 스크래퍼 개발
-   - SQL Injection 자동화 tool 개발
-  
- - Javascript
+ - JavaScript
    - 바닐라 JS로 크롬 앱 개발
+   
+ - Python
+   - [Private] Python으로 웹 스크래퍼 개발
+   - [Team] SQL Injection 자동화 tool 개발
  
  - React JS
    - [React JS로 영화 웹 서비스 개발](https://hyungjinn.github.io/react-netflix-clone/)
+   
+ - GraphQL
+   - GraphQL로 영화 웹 개발
+   - GraphQL로 영화 API 개발
 
 
 ## Interest
  - Languages
-   - Javascript
+   - JavaScript
+   - TypeScript
+   
    - Python
+   
+   - React JS
+   
+   - GraphQL
 
  - Frameworks
    - oooo
