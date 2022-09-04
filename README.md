@@ -14,7 +14,7 @@
    - [바닐라 JS로 크롬 앱 개발](https://hyungjinn.github.io/chrome-app/)
    
  - Python
-   - [Python으로 웹 스크래퍼 개발](https://hyungjinn.github.io/react-crypto-tracker/)
+   - Python으로 웹 스크래퍼 개발
    - SQL Injection 자동화 tool 개발
  
  - React JS
