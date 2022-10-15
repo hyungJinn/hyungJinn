@@ -11,7 +11,8 @@
 
 ## Projects
  - JavaScript
-   - [바닐라 JS로 크롬 앱 개발](https://hyungjinn.github.io/chrome-app/)
+   - [바닐라 JS로 크롬 앱 개발](https://hyungjinn.github.io/vanillajs-chrome-app/)
+   - [바닐라 JS로 Meme Maker 개발](https://hyungjinn.github.io/vanillajs-meme-maker/)
    
  - Python
    - Python으로 웹 스크래퍼 개발
