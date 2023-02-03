@@ -6,7 +6,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungJinn&hide=issues,contribs&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungJinn&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyungjin)](https://solved.ac/hyungjin)
 
 
 ## Projects
